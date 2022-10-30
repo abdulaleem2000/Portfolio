@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.726757d6.css",
+    "main.js": "/Portfolio/static/js/main.7b2a7cfd.js",
+    "static/media/profile.png": "/Portfolio/static/media/profile.790a4bcfc51056c2846e.png",
+    "static/media/Abdul Aleem_resume.pdf": "/Portfolio/static/media/Abdul Aleem_resume.de6a8da411a0c6f01f41.pdf",
+    "static/media/AndroidStudio.png": "/Portfolio/static/media/AndroidStudio.ee20e9c62b7e23779e02.png",
+    "static/media/image.jpg": "/Portfolio/static/media/image.a7cdcb5cdac28f29720c.jpg",
+    "static/media/Java-tutorials.jpg": "/Portfolio/static/media/Java-tutorials.67449b67af92c69b862b.jpg",
+    "static/media/flutter.png": "/Portfolio/static/media/flutter.698268fbccaaa1c57cce.png",
+    "index.html": "/Portfolio/index.html",
+    "main.726757d6.css.map": "/Portfolio/static/css/main.726757d6.css.map",
+    "main.7b2a7cfd.js.map": "/Portfolio/static/js/main.7b2a7cfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.726757d6.css",
+    "static/js/main.7b2a7cfd.js"
+  ]
+}
